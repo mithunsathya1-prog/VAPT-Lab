@@ -7,8 +7,8 @@ All testing conducted in an isolated environment for educational purposes.
 
 | Machine | Role | IP |
 |---------|------|----|
-| Kali Linux | Attacker | 192.168.56.102 |
-| Metasploitable 2 | Target | 192.168.56.101 |
+| Kali Linux | Attacker | 192.168.56.xx |
+| Metasploitable 2 | Target | 192.168.56.xx |
 
 ## 📋 Machines Completed
 
